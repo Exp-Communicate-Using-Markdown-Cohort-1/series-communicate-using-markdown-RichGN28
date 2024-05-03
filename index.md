@@ -4,3 +4,11 @@ I dont know what da fuk i made
 
 ## Image of a weird cat
 ![Image of a weird cat](https://octodex.github.com/images/yaktocat.png)
+
+
+### Now im going to add code
+
+```
+x = 'This is a python script that only prints'
+print(x)
+```
