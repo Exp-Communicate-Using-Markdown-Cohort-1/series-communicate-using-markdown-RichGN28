@@ -12,3 +12,8 @@ I dont know what da fuk i made
 x = 'This is a python script that only prints'
 print(x)
 ```
+
+## This is a task list
+- [ ] Turn on github pages
+- [ ] Make my homework
+- [ ] Cry
